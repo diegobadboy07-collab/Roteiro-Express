@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gerador de Roteiro Express",
+  "description": "An application that takes a YouTube video transcript, analyzes it using Gemini, and generates new video scripts (long and short), titles, SEO-optimized descriptions, and relevant tags.",
+  "requestFramePermissions": []
+}
